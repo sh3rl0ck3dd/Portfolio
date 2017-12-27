@@ -1,4 +1,4 @@
-#[rajatsharmaz.com](www.rajatsharmaz.com)
+#[rajatsharmaz.com](http://rajatsharmaz.com/)
 
 This is the source code of my portfolio website.
 
